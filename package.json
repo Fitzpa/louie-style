@@ -1,0 +1,19 @@
+{
+  "name": "louie-style",
+  "version": "1.0.1",
+  "description": "Simple Light-Weight Modern CSS Framework",
+  "main": "globals.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fitzpa/louie-style.git"
+  },
+  "author": "Louie Fitzpatrick - Fitzpa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fitzpa/louie-style/issues"
+  },
+  "homepage": "https://github.com/Fitzpa/louie-style#readme"
+}
